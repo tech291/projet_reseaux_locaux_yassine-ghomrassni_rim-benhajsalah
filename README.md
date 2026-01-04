@@ -73,6 +73,7 @@ STM32 (Capteurs) → WiFi → MQTT Broker → Node-RED Dashboard
 
 
 ### 4. Node-RED
+![cKOD44Af](https://github.com/user-attachments/assets/00affe70-6701-496b-ae8f-1fbbd46e2b88)
 
 ![TqURlcpY](https://github.com/user-attachments/assets/52f8ef31-d32f-457a-b6e1-968f29168c37)
 ![fxEX65ht](https://github.com/user-attachments/assets/bf6c7d9f-78b4-4381-86ca-91e6353d0c00)
